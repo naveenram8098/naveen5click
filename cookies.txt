@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+rupee4click.com	TRUE	/	FALSE	1999999999	PHPSESSID	cc25ab8bb969c7d90d611803510a1676
+rupee4click.com	TRUE	/	FALSE	1999999999	ref	1673442928
+
